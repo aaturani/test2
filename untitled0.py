@@ -12,3 +12,6 @@ print(c+d)
 
 a=pow (c+d,2)
 print(a)
+
+
+#saaaalaam
