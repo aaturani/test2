@@ -6,7 +6,7 @@ Created on Tue Apr 18 23:20:20 2017
 
 """
 c=2
-d=4
+d=7
 print(c+d)
 
 
