@@ -10,7 +10,8 @@ c=2
 d=7
 =======
 d=2*7
->>>>>>> origin/branch2
+""" change 2"""
+
 print(c+d)
 
 
